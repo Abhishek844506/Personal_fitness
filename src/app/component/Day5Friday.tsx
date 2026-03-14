@@ -1,9 +1,9 @@
 import { ArrowLeft, Dumbbell, AlertCircle, Lightbulb } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 // local Day5 Friday images stored under src/assets/Day2TuesdayImages (reusing existing assets)
-import img1 from '../../assets/Day2TuesdayImages/1.jpg';
-import img2 from '../../assets/Day2TuesdayImages/2.jpg';
-import img3 from '../../assets/Day2TuesdayImages/3.jpg';
+import img1 from '../../assets/Day5FridayImages/1.jpg';
+import img2 from '../../assets/Day5FridayImages/2.jpg';
+import img3 from '../../assets/Day5FridayImages/3.jpg';
 
 const deadliftImage = img1;
 const pulloverImage = img2;
