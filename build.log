@@ -1,0 +1,32 @@
+﻿
+> @figma/my-make-file@0.0.1 build
+> vite build
+
+[36mvite v6.3.5 [32mbuilding for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 1642 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                 [39m[1m[2m  0.48 kB[22m[1m[22m[2m Γöé gzip:  0.32 kB[22m
+[2mdist/[22m[32massets/3-CAw0FiU8.jpg      [39m[1m[2m 86.48 kB[22m[1m[22m
+[2mdist/[22m[32massets/5-BwHoULSK.jpg      [39m[1m[2m 86.80 kB[22m[1m[22m
+[2mdist/[22m[32massets/1-BFe0VZQ3.jpg      [39m[1m[2m 91.75 kB[22m[1m[22m
+[2mdist/[22m[32massets/3-COkcBFCb.jpg      [39m[1m[2m 91.75 kB[22m[1m[22m
+[2mdist/[22m[32massets/3-C30hfIXp.jpg      [39m[1m[2m 92.02 kB[22m[1m[22m
+[2mdist/[22m[32massets/2-CAI2a2B6.jpg      [39m[1m[2m 92.69 kB[22m[1m[22m
+[2mdist/[22m[32massets/4-dqOgUAqU.jpg      [39m[1m[2m 92.83 kB[22m[1m[22m
+[2mdist/[22m[32massets/1-7M4sFgUc.jpg      [39m[1m[2m 94.25 kB[22m[1m[22m
+[2mdist/[22m[32massets/1-DdduC5TK.jpg      [39m[1m[2m 95.67 kB[22m[1m[22m
+[2mdist/[22m[32massets/2-DkFOPvkn.jpg      [39m[1m[2m 96.89 kB[22m[1m[22m
+[2mdist/[22m[32massets/2-ZamZ7X-0.jpg      [39m[1m[2m 97.36 kB[22m[1m[22m
+[2mdist/[22m[32massets/4-CJe5lXxq.jpg      [39m[1m[2m100.58 kB[22m[1m[22m
+[2mdist/[22m[32massets/3-DnPQ8iY5.jpg      [39m[1m[2m103.82 kB[22m[1m[22m
+[2mdist/[22m[32massets/2-DpZ3rMVk.jpg      [39m[1m[2m116.41 kB[22m[1m[22m
+[2mdist/[22m[32massets/1-gPKD3me5.jpg      [39m[1m[2m218.96 kB[22m[1m[22m
+[2mdist/[22m[32massets/4-DSTI9n3r.jpg      [39m[1m[2m269.42 kB[22m[1m[22m
+[2mdist/[22m[32massets/4-CRk9ouV7.jpg      [39m[1m[2m271.14 kB[22m[1m[22m
+[2mdist/[22m[32massets/5-Cl63g5vi.jpg      [39m[1m[2m272.07 kB[22m[1m[22m
+[2mdist/[22m[32massets/5-LwiN69At.jpg      [39m[1m[2m273.88 kB[22m[1m[22m
+[2mdist/[22m[35massets/index-6jT98zGU.css  [39m[1m[2m106.25 kB[22m[1m[22m[2m Γöé gzip: 16.48 kB[22m
+[2mdist/[22m[36massets/index-7JQ5WYIq.js   [39m[1m[2m293.92 kB[22m[1m[22m[2m Γöé gzip: 89.50 kB[22m
+[32mΓ£ô built in 5.92s[39m
