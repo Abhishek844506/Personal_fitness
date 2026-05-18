@@ -33,7 +33,7 @@ The entire layout of FitLife was designed with a user-centric approach before co
 
 *Tip: You can include screenshots of your Figma frames or a GIF of your app walk-through below:*
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=FitLife+App+Mockup" alt="FitLife Cover Showcase" width="100%">
+  <img width="960" height="474" alt="image" src="https://github.com/user-attachments/assets/784a6f19-d11f-4854-b868-a08b53640f93" />
 </p>
 
 ---
@@ -54,8 +54,3 @@ To get a local copy up and running, follow these simple steps:
 ### Prerequisites
 Make sure you have a web browser installed. If your project uses Node/npm package dependencies, ensure Node.js is installed.
 
-### Installation & Local Setup
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/fitlife.git](https://github.com/YOUR_GITHUB_USERNAME/fitlife.git)
-<img width="960" height="474" alt="image" src="https://github.com/user-attachments/assets/784a6f19-d11f-4854-b868-a08b53640f93" />
